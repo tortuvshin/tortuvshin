@@ -5,9 +5,13 @@
 [![hackerrank](https://img.shields.io/badge/hackerrank-2EC866.svg?&style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/turtuvshin)
 ![](https://komarev.com/ghpvc/?username=tortuvshin&label=PROFILE+VIEWS)
 
-📊 **This week I spent my time on**
+<details>	
+  <summary><b>📊 **This week I spent my time on**</b></summary>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=turtuvshin&hide_title=true&hide_border=true&langs_count=8)
+
+</details>
+
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
