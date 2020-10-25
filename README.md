@@ -3,10 +3,10 @@
 [![email](https://img.shields.io/badge/turuu@dev.mn-D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:turuu@dev.mn)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/turtuvshin)
 [![hackerrank](https://img.shields.io/badge/hackerrank-2EC866.svg?&style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/turtuvshin)
-![](https://komarev.com/ghpvc/?username=tortuvshin&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=tortuvshin&label=Views&style=flat-square)
 
 <details>	
-  <summary><b>📊 **This week I spent my time on**</b></summary>
+  <summary><b>📊 This week I spent my time on</b></summary>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=turtuvshin&hide_title=true&hide_border=true&langs_count=8)
 
