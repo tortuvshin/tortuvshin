@@ -8,7 +8,7 @@
 <details>	
   <summary><b>📊 This week I spent my time on</b></summary>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=turtuvshin&hide_title=true&hide_border=true&langs_count=8)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=turtuvshin&layout=compact)](https://github.com/turtuvshin)
 
 </details>
 
