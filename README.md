@@ -7,7 +7,7 @@
 <!-- <details>	
   <summary><b>📊 This week I spent my time on</b></summary>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=turtuvshin&layout=compact)](https://github.com/tortuvshin)
+[![Turtuvshin's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=turtuvshin&layout=compact)](https://github.com/tortuvshin)
 
 </details> -->
 
