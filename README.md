@@ -4,12 +4,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/turtuvshin)
 [![hackerrank](https://img.shields.io/badge/hackerrank-2EC866.svg?&style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/turtuvshin)
 
-<details>	
+<!-- <details>	
   <summary><b>📊 This week I spent my time on</b></summary>
 
 [![Turtuvshin's coding stats](https://turtuvshin-stats.vercel.app/api/wakatime?username=turtuvshin&layout=compact)](https://github.com/tortuvshin)
 
-</details>
+</details> -->
 
 
 <details>	
